@@ -2,7 +2,7 @@
 
 A simple API that retrives information of vehicles using NodeJS, Express, Typescript and MongoDB.
 
-## Requisites
+## Requirements
 - [MongoDB](https://www.mongodb.com/download-center).
 - [NodeJS](https://nodejs.org/en/download/releases/)
 
@@ -19,4 +19,4 @@ API_DATABASE_NAME= <database name>
 - To build run `npm run build`
 
 ## Client view
-- This Api can be used with vehicle-rating-client
+- This Api can be used with [vehicle-rating-client](https://github.com/thedamphair/vehicle-rate-client)
